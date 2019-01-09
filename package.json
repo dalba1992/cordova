@@ -1,0 +1,19 @@
+{
+  "name": "com.example.lsb.complex",
+  "version": "1.0.0",
+  "displayName": "Complex LSB",
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-fcm": {}
+    },
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "^6.3.0",
+    "cordova-ios": "latest",
+    "cordova-plugin-fcm": "^2.1.2"
+  }
+}
