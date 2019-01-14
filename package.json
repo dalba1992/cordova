@@ -1,5 +1,5 @@
 {
-  "name": "com.example.lsb.complex",
+  "name": "com.goldmind.complex",
   "version": "1.0.0",
   "displayName": "Complex LSB",
   "cordova": {
@@ -7,13 +7,13 @@
       "cordova-plugin-fcm": {}
     },
     "platforms": [
-      "ios",
-      "android"
+      "android",
+      "ios"
     ]
   },
   "dependencies": {
     "cordova-android": "^6.3.0",
-    "cordova-ios": "latest",
+    "cordova-ios": "^4.5.5",
     "cordova-plugin-fcm": "^2.1.2"
   }
 }
